@@ -1,12 +1,12 @@
-### Hello! 👋
+### Merhaba! 👋
 
 ![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-I work on web development and front-end technologies. I am knowledgeable in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, C#, and Next.js.
+Web geliştirme ve front-end teknolojileri ile uğraşıyorum. HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, C# ve Next.js konularında bilgiliyim.
 
 ---
 
-### Languages and Technologies
+### Diller ve Teknolojiler
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -19,6 +19,6 @@ I work on web development and front-end technologies. I am knowledgeable in HTML
 
 ---
 
-### More
+### Daha Fazlası 
 
-I develop projects with my interest and passion for web development. You can find the projects I am working on and the open-source projects I contribute to by browsing my profile.
+Web geliştirme konularına olan ilgim ve tutkumla projeler geliştiriyorum. Üzerinde çalıştığım projeleri ve katkıda bulunduğum açık kaynak projelerini profili inceleyerek bulabilirsiniz.
